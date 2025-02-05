@@ -37,4 +37,4 @@ Do they have null semantics?
 * Lancioni & Boella 2012, [Idiomatic MWEs and Machine Translation: A Retrieval and Representation Model: The AraMWE Project](http://mt-archive.info/AMTA-2012-Lancioni.pdf). _Proc. of the Fourth Workshop on Computational Approaches to Arabic Script-based Languages._
   - §3.2 describes a proof-of-concept grammar of 18 English and 18 Arabic verbal MWEs, including _kick the bucket_. See figures 1, 3, and 4. Apparently, their solution assigns no semantics to the direct object NP and the idiomatic verb has no constraint on which direct objects it licenses.
 * de Lhoneux 2014. CCG Parsing and Multiword Expressions. MS Thesis, Edinburgh [supervised by Mark and Omri].
-* de Lhoneu et al. 2019. [Investigating the effect of automatic MWE recognition on CCG parsing](http://langsci-press.org/catalog/view/202/2027/1553-1)
+* de Lhoneux et al. 2019. [Investigating the effect of automatic MWE recognition on CCG parsing](http://langsci-press.org/catalog/view/202/2027/1553-1)
