@@ -15,7 +15,7 @@ markdown_ext: md
 
 # Site settings
 
-name: Annodoc
+title: Constructions in CCG
 baseurl: "/ccg-cxns"
 homeurl: "https://github.com/nschneid/ccg-cxns/"
 editurl: "https://github.com/nschneid/ccg-cxns/edit/gh-pages"
